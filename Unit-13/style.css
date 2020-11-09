@@ -1,0 +1,11 @@
+.ex2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+li {
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
